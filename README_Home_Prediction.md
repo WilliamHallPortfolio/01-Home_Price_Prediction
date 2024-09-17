@@ -5,8 +5,8 @@ https://github.com/WilliamHallPortfolio/01-Home_Price_Prediction/blob/main/Housi
 <br>
 ### Objective:
 This project aims to predict house prices based on features and amenities that are included within the property. This project involves data cleaning, feature selection, exploratory data analysis (EDA), and the implementation of a predictive model to accurately estimate house prices.
-<p align="left">
-<img src="https://media.istockphoto.com/id/1276901709/photo/beautiful-new-home-near-chicago.jpg?s=612x612&w=0&k=20&c=fA28eXUWXVGA-L8u3OBXLanr8U95xz1XA18kMjexK-A=" width="100" height="100" border="10"/>
+<p align="center">
+<img src="https://media.istockphoto.com/id/1276901709/photo/beautiful-new-home-near-chicago.jpg?s=612x612&w=0&k=20&c=fA28eXUWXVGA-L8u3OBXLanr8U95xz1XA18kMjexK-A=" width="300" height="300" border="10"/>
 </p>
 
 ### Dataset:
