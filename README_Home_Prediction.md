@@ -1,5 +1,8 @@
 # Project Title: Housing Price Prediction Using Machine Learning
-
+<samp>Notebook to project can be found here:</samp>
+https://github.com/WilliamHallPortfolio/01-Home_Price_Prediction/blob/main/Housing%20Price%20Prediction%20Final.ipynb
+<samp>Link to Google Colab environment provided to test code yourself.</samp>
+<br>
 ### Objective:
 The goal of this project is to predict house prices based on various features of homes, using a dataset from a real estate environment. The project involves data cleaning, feature selection, exploratory data analysis (EDA), and the implementation of a predictive model to accurately estimate house prices.
 
