@@ -1,10 +1,13 @@
 # Project Title: Housing Price Prediction Using Machine Learning
 <samp>Notebook to project can be found here:</samp> <br>
-https://github.com/WilliamHallPortfolio/01-Home_Price_Prediction/blob/main/Housing%20Price%20Prediction%20Final.ipynb
+https://github.com/WilliamHallPortfolio/01-Home_Price_Prediction/blob/main/Housing%20Price%20Prediction%20Final.ipynb <br>
 <samp>Link to Google Colab environment provided to test code yourself.</samp>
 <br>
 ### Objective:
-The goal of this project is to predict house prices based on various features of homes, using a dataset from a real estate environment. The project involves data cleaning, feature selection, exploratory data analysis (EDA), and the implementation of a predictive model to accurately estimate house prices.
+This project aims to predict house prices based on features and amenities that are included within the property. This project involves data cleaning, feature selection, exploratory data analysis (EDA), and the implementation of a predictive model to accurately estimate house prices.
+<p align="left">
+<img src="[https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80](https://www.google.com/imgres?q=suburban%20house%20in%20a%20developement&imgurl=https%3A%2F%2Fmedia.gettyimages.com%2Fid%2F875403094%2Fphoto%2Faerial-shot-of-suburban-development.jpg%3Fs%3D612x612%26w%3Dgi%26k%3D20%26c%3DJV2w1k-qbY_-ndw8tbmGQ3xmqJQRGQKyfxkyI6jNF_4%3D&imgrefurl=https%3A%2F%2Fwww.gettyimages.com%2Fphotos%2Fsuburban-housing-development&docid=uqbmAVdRJXgvjM&tbnid=LdOdNaQ5TMVZGM&vet=12ahUKEwjV7fbV2MqIAxWlEFkFHeprGLMQM3oECG0QAA..i&w=612&h=459&hcb=2&ved=2ahUKEwjV7fbV2MqIAxWlEFkFHeprGLMQM3oECG0QAA)" width="100" height="100" border="10"/>
+</p>
 
 ### Dataset:
 Source: The dataset consists of two CSV files: train.csv and test.csv. These files contain detailed information about houses, including various features such as LotFrontage, YearBuilt, GarageArea, and SalePrice (target variable).
