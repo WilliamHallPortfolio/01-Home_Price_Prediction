@@ -5,7 +5,7 @@ https://github.com/WilliamHallPortfolio/01-Home_Price_Prediction/blob/main/Housi
 <br>
 ### Objective:
 This project aims to predict home prices based on features and amenities that are included within the property, such as Lot Square Footage, type of street pavement, or whether the property consists of a pool. All other economic factors in this project are not considered when assessing the value of this property such as: interest rates, unemployment data, or current supply of housing stock.   
-This project involves data cleaning, feature selection, exploratory data analysis (EDA), and the implementation of a predictive model to accurately estimate house prices.
+This project involves data cleaning, feature selection, exploratory data analysis (EDA), and the implementation of a predictive models to accurately estimate house prices.
 <p align="center">
 <img src="https://media.istockphoto.com/id/1276901709/photo/beautiful-new-home-near-chicago.jpg?s=612x612&w=0&k=20&c=fA28eXUWXVGA-L8u3OBXLanr8U95xz1XA18kMjexK-A=" width="300" height="300" border="10"/>
 </p>
