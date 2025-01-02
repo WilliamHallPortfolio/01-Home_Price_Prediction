@@ -1,4 +1,4 @@
-# Project Title: Housing Price Prediction Using Machine Learning
+# Housing Price Prediction Using Machine Learning
 <samp>Notebook to project can be found here:</samp> <br>
 https://github.com/WilliamHallPortfolio/01-Home_Price_Prediction/blob/main/Housing%20Price%20Prediction%20Final.ipynb <br>
 <samp>Link to Google Colab environment provided to test code yourself.</samp>
